@@ -1,5 +1,3 @@
-import {
-    upperCase
-} from "upper-case";
+let uc = require("upper-case")
 
-upperCase("test");
+console.log(uc.upperCase("test"));
