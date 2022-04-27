@@ -1,0 +1,23 @@
+{
+  "name": "laughing-bassoon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "tslib": "^2.4.0",
+    "upper-case": "^2.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElmedinaMorinaa/laughing-bassoon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElmedinaMorinaa/laughing-bassoon/issues"
+  },
+  "homepage": "https://github.com/ElmedinaMorinaa/laughing-bassoon#readme"
+}
