@@ -1,1 +1,1 @@
-console.log("test");
+import { upperCase } from "upper-case";
